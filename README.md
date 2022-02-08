@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp;UX/UI 디자이너, 퍼블리셔 정수빈입니다. ☺️
 
 ✔️ &nbsp;웹과 모바일 구조에 대한 이해와 개발 지식을 보유하고 있습니다.\
-✔️ &nbsp;신규 및 기존사이트 유지보수 경험이 많아 기업의 브랜드를 잘 그려나가는 장점이 있습니다.\
+✔️ &nbsp;신규 개발 및 기존 사이트 유지보수 등 기업의 브랜드를 관리, 성장 시키는데 경험이 많습니다.\
 ✔️ &nbsp;B2B, B2C 서비스 환경에 필요한 랜딩페이지 부터 관리자단, 사용자단, 메일링까지 디자인 및 개발 경험이 많습니다.\
 ✔️ &nbsp;PC, Tablet, Mobile 환경 등 다양한 해상도에 맞춰 퍼블리싱이 가능합니다.\
 ✔️ &nbsp;기획자, 개발자들과 함께 소통하며 사용자를 위한 디자인을 해왔습니다. \
