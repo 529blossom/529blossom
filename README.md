@@ -9,7 +9,7 @@
 ✔️ &nbsp;B2B, B2C 서비스 환경에 필요한 랜딩페이지 부터 관리자단, 사용자단, 메일링까지 디자인 및 개발 경험이 많습니다.\
 ✔️ &nbsp;PC, Tablet, Mobile 환경 등 다양한 해상도에 맞춰 퍼블리싱이 가능합니다.\
 ✔️ &nbsp;기획자, 개발자들과 함께 소통하며 사용자를 위한 디자인을 해왔습니다. \
-✔️ &nbsp;디자인툴(Adobe Photoshop/Adobe Illustrator/Adobe XD/Figma/Zeplin 등) 및 개발(HTML/SCSS/CSS3/Media Query) 툴 모두 사용합니다.  \
+✔️ &nbsp;디자인툴(Adobe Photoshop/Adobe Illustrator/Adobe XD/Figma/Zeplin 등) 및 개발(HTML/SCSS/CSS3/Media Query)툴 모두 사용합니다.  \
 ✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://sbjung.oopy.io/">소개 페이지</a>를 방문해주세요.
 
 ### 🤝🏻 &nbsp;Contact
