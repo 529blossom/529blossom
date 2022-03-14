@@ -1,5 +1,5 @@
 <a href="http://subin529.dothome.co.kr/"><img src="https://img.shields.io/badge/WebPorfoilo-link-blue"/></a>
-<a href="https://sbjung.oopy.io/"><img src="https://img.shields.io/badge/DocsPorfoilo-link-blue"/></a>
+<a href="https://jungsubin.notion.site/UI-b145b772747946beb8497427a6f1bc13"><img src="https://img.shields.io/badge/DocsPorfoilo-link-blue"/></a>
 
 
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp;UX/UI 디자이너, 퍼블리셔 정수빈입니다. ☺️
