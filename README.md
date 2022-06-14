@@ -2,7 +2,7 @@
 <a href="https://jungsubin.notion.site/UI-b145b772747946beb8497427a6f1bc13"><img src="https://img.shields.io/badge/DocsPorfoilo-link-blue"/></a>
 
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp;UX/UI 디자이너, 퍼블리셔 정수빈입니다. ☺️
+##  &nbsp;UX/UI 디자이너, 퍼블리셔 정수빈입니다. ☺️
 
 ✔️ &nbsp;웹과 모바일 구조에 대한 이해와 개발 지식을 보유하고 있습니다.\
 ✔️ &nbsp;신규 개발 및 기존 사이트 유지보수 등 기업의 브랜드를 관리, 성장 시키는데 경험이 많습니다.\
